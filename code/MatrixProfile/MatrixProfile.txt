@@ -1,0 +1,3 @@
+The latest and most recent updates on Matrix Profile can be find in : https://github.com/target/matrixprofile-ts
+
+The official webpage of Matrix Profile: https://www.cs.ucr.edu/~eamonn/MatrixProfile.html
