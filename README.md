@@ -13,13 +13,17 @@ Extracting informative and meaningful temporal segments from high-dimensional we
 # Bibtex
 If you find this code or the paper useful, please consider citing:
 
+          
     @inproceedings{deldari2020espresso,
-          title={Entropy and ShaPe awaRe timE-Series SegmentatiOn for processing heterogeneous sensor data}, 
-          author={Shohreh Deldari, Daniel V. Smith, Amin Sadri, Flora D. Salim},
-          Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)},
-          volume={4},
-          number={3},
-          articleno={77}
-          year={2020},
-          url = {https://doi.org/10.1145/3411832}
+        title={Entropy and ShaPe awaRe timE-Series SegmentatiOn for processing heterogeneous sensor data}, 
+        author={Deldari, Shohreh and Smith, Daniel V. and Sadri, Amin and Salim, Flora D. },
+        journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)},
+        volume={4},
+        number={3},
+        articleno={77},
+        year={2020},
+        url = {https://doi.org/10.1145/3411832},
+        doi = {10.1145/3411832}
     }
+
+    
