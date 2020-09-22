@@ -4,8 +4,10 @@ Entropy and ShaPe awaRe timE-Series SegmentatiOn for processing heterogeneous se
 Shohreh Deldari, Daniel V. Smith, Amin Sadri, Flora D. Salim
 
 Link to the paper : https://arxiv.org/abs/2008.03230
+
 Presented at UbiComp/ISWC 2020 : [Teaser](https://www.youtube.com/watch?v=na4Cuh4Egko) ,  [Presentation](https://www.youtube.com/watch?v=caXP8WdEAS8)
 
+## Source code
 Source code is availabe in Matlab. Also the Python version of ESPRESSO will be available soon.
 
 ## Abstract
